@@ -1,5 +1,7 @@
 # NexusOS: AI-Native Freelancer Intelligence Platform
 
+[![Repository](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/Ananthapadmanabhan333/Freelancer-CRM-with-AI)
+
 NexusOS is a comprehensive, enterprise-grade CRM and business operating system designed for freelancers, agencies, and solo entrepreneurs. It leverages multi-agent AI to automate sales, proposals, meetings, and revenue management.
 
 ## 🚀 Key Features
@@ -30,8 +32,8 @@ NexusOS is a comprehensive, enterprise-grade CRM and business operating system d
 
 1. **Clone the repository**:
    ```bash
-   git clone <repo-url>
-   cd nexusos
+   git clone https://github.com/Ananthapadmanabhan333/Freelancer-CRM-with-AI.git
+   cd Freelancer-CRM-with-AI
    ```
 
 2. **Setup Backend**:
